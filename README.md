@@ -1,6 +1,6 @@
 ## Despliegue de [Nextjs](https://nextjs.org/) en un servidor CentOS
 
-instrucciones directas para el despliegue de nextjs (o aplicaciones similares) en un servidor centos8.
+instrucciones para el despliegue de nextjs (o aplicaciones similares) en un servidor centos8.
 
 ![diseño](https://i.ibb.co/5TK3wmR/preview.png)
 
